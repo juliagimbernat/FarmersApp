@@ -1,6 +1,3 @@
-# FarmersApp
-
-
 # Near Field Communication (NFC) enabled precision molecular diagnostics for smartphones (Consumers App)
 
 Imperial College London Department of Bioengineering
